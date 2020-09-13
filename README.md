@@ -1,1 +1,1 @@
-# Digikala-sales-pediction
+# Digikala-sales-prediction
