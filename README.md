@@ -1,5 +1,5 @@
 # Digikala Data Cup
-Digikala cup was a datascience competition which was held in [Quera](https://quera.ir/). <br>
+Digikala cup was a data science competition which was held in [Quera](https://quera.ir/). <br>
 
 ## [First question](https://quera.ir/contest/assignments/20120/problems):
 First question was a time series analysis, which was about predicting [`digikala`](https://www.digikala.com/) future sales according to their dataset. <br>
